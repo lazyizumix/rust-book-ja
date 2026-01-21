@@ -1,0 +1,2 @@
+[tools]
+"cargo:mdbook" = "0.4.40"
